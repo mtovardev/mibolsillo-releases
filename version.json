@@ -1,7 +1,7 @@
 {
   "versionCode": 1,
   "versionName": "1.0",
-  "url": "https://github.com/mtovardev/mibolsillo-releases/releases/download/v1.0/app-release.apk",
+  "url": "https://github.com/mtovardev/mibolsillo-releases/releases/download/1.0/app-release.apk",
   "notes": "Primera versión de Mi Bolsillo. Controla tus finanzas 100% offline: carteras, presupuesto, ahorros, préstamos, suscripciones y notificaciones inteligentes.",
   "obligatoria": false
 }
